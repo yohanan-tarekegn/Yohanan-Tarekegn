@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Yohanan Tarekegn
+Computer Science student interested in fronted development, databases, and software development.
 
-<!--
-**yohanan-tarekegn/Yohanan-Tarekegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies I use:
+- Java
+- C++
+- SQL
+- PL/SQL
 
-Here are some ideas to get you started:
+Projects:
+- Computer Lab Management System (Java OOP)
+- Employee Performance & Payroll Analytics Dashboard (PL/SQL)
+- Algorithms Implementation in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- backend development
+- mobile app development
