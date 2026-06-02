@@ -6,12 +6,13 @@ Technologies I use:
 - C++
 - SQL
 - PL/SQL
+- HTML
+- JavaScript
 
 Projects:
-- Computer Lab Management System (Java OOP)
-- Employee Performance & Payroll Analytics Dashboard (PL/SQL)
-- Algorithms Implementation in C++
+- university students clearance automation(html, css, javascript)
+- Oshell
+- trade journaling website(html,css,js)
 
 Currently learning:
 - backend development
-- mobile app development
