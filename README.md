@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Yohanan Tarekegn Girma**, a Computer Science student at **Hawassa University** based in Addis Ababa, Ethiopia.
+I'm **Yohanan Tarekegn Girma**, a Computer Science student at **Hawassa University** living in Addis Ababa, Ethiopia.
 
 I'm passionate about software development and currently focused on becoming a strong **Full-Stack Software Developer / Engineer**.
 
@@ -69,7 +69,7 @@ I'm currently learning and improving my skills in **React and TypeScript**, whil
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - ⚛️ React
 - 🔷 TypeScript
@@ -94,17 +94,17 @@ During my internship, I worked on the development of a website for **Major Gener
 
 The project involved developing a comprehensive college website with features including:
 
-- 🏫 College information and profile
-- 📚 Academic departments and programs
-- 📝 Admission information and inquiry forms
-- 📰 News and announcements
-- 👨‍🏫 Staff directory
-- 🔬 Research information
-- 📞 Contact and inquiry functionality
-- 🌍 English / Amharic language support
-- 📱 Responsive navigation
-- 🔐 Student and staff portal functionality
-- 🗄️ Database integration
+- - College information and profile
+- - Academic departments and programs
+- - Admission information and inquiry forms
+- - News and announcements
+- - Staff directory
+- - Research information
+- - Contact and inquiry functionality
+- - English / Amharic language support
+- - Responsive navigation
+- - Student and staff portal functionality
+- - Database integration
 
 ### 🔗 Project Repository
 
@@ -116,13 +116,13 @@ The repository contains the source code, documentation, database files, frontend
 
 ## 🎓 Education & Organizations
 
-### 🏛️ Hawassa University
+###  Hawassa University
 
 **Computer Science**
 
 Currently pursuing my studies in Computer Science while developing practical software engineering skills.
 
-### 🚀 PCIC — Batch 1
+###  PCIC — Batch 1
 
 I am a **Batch 1 student of PCIC**, a student organization at Hawassa University.
 
@@ -132,21 +132,9 @@ I am a **Batch 1 student of PCIC**, a student organization at Hawassa University
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🎓 **PCIC Batch 1 Certificate**
-- 💼 **2+ Months Internship Experience**
-- 🏫 Developed a real-world website for **Major General Mulugeta Buli Polytechnic College**
-- 💻 Published the **Buli Project** on GitHub
-- 🌱 Continuously developing skills in modern Full-Stack technologies
-
-> 📝 This section will be updated with new achievements, certificates, competitions, courses, and milestones.
-
----
-
 ## 🚀 Featured Projects
 
-### 🏫 Buli Project
+###  Buli Project
 
 **M.G.M.B.P.T.C. Website Development Project**
 
@@ -161,15 +149,6 @@ A comprehensive website developed during my internship at Major General Mulugeta
 ---
 
 ### 🔨 More Projects Coming Soon...
-
-I'm continuously working on new projects to improve my development skills.
-
-This section will be expanded as I build and publish more projects.
-
-- 📌 Project #2 → Coming Soon
-- 📌 Project #3 → Coming Soon
-- 📌 Project #4 → Coming Soon
-
 ---
 
 ## 📊 GitHub Stats
@@ -199,72 +178,6 @@ This section will be expanded as I build and publish more projects.
 ## 🎯 My Goals
 
 I'm working toward becoming a well-rounded **Full-Stack Software Developer / Engineer**.
-
-### 🚀 Current Goals
-
-- ⚛️ Master React
-- 🔷 Improve TypeScript skills
-- 🌐 Build modern full-stack applications
-- 🧠 Strengthen problem-solving and algorithms
-- ⚙️ Improve backend development
-- 🗄️ Learn and work with different databases
-- 🏗️ Build larger real-world projects
-- 🤝 Contribute to open-source projects
-- 📈 Continuously improve my software engineering skills
-
----
-
-## 💡 What I Enjoy
-
-- 💻 Software Development
-- 🌐 Web Development
-- ⚛️ React & Modern Frontend
-- 🔷 TypeScript
-- ⚙️ Backend Development
-- 🧠 Problem Solving
-- 🏗️ Building Projects
-- 📚 Learning New Technologies
-
----
-
-## 📈 My Developer Journey
-
-🎓 Computer Science Student  
-↓  
-💻 Programming Fundamentals  
-↓  
-C++ • JavaScript • PHP  
-↓  
-🌐 Web Development  
-↓  
-💼 Internship Experience  
-↓  
-🏗️ Real-World Project Development  
-↓  
-⚛️ React + TypeScript  
-↓  
-🌐 Full-Stack Development  
-↓  
-🚀 Full-Stack Software Engineer
-
----
-
-## 📌 Future Additions
-
-This profile will continue to grow as I develop my skills and gain more experience.
-
-Planned additions:
-
-- 🔗 LinkedIn
-- 🌐 Personal Portfolio
-- 🚀 More Projects
-- 🏆 More Achievements
-- 📜 More Certifications
-- 💼 Future Work Experience
-- 🧰 Additional Technologies
-- 🤝 Open-Source Contributions
-- 📊 More GitHub Statistics
-
 ---
 
 ## 🤝 Let's Connect
